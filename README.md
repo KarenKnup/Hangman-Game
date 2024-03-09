@@ -4,7 +4,7 @@
   <img src="jogo.png">
 </div>
 
- <h2>:test_tube: About</h2>
+ <h2>:bulb: About</h2>
 
 <strong>Hangman</strong> is a word-guessing game where one person thinks of a word and the other tries to guess it by suggesting letters. 
 Correct guesses reveal the letters in the word, while incorrect guesses lead to the drawing of a hangman figure. 
