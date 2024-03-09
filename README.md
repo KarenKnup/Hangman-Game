@@ -10,6 +10,8 @@
 Correct guesses reveal the letters in the word, while incorrect guesses lead to the drawing of a hangman figure. 
 The game continues until the word is guessed or the hangman figure is completed.
 
+<br>
+
  <h2>:test_tube: Link</h2>
 
  - [Clique para testar o projeto](https://replit.com/@KarenKnup/Jogo-da-Forca) **[PORTUGUÊS]**
