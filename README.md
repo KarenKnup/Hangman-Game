@@ -6,14 +6,8 @@
 
  <h2>:test_tube: Link</h2>
 
- - [Clique para testar o projeto](https://replit.com/@KarenKnup/Projeto-Cafe-Temptation) **[PORTUGUÊS]**
+ - [Clique para testar o projeto](https://replit.com/@KarenKnup/Jogo-da-Forca) **[PORTUGUÊS]**
 
- - [Click to test the project](https://replit.com/@KarenKnup/Project-Coffee-Temptation) **[ENGLISH]**
+ - [Click to test the project](https://replit.com/@KarenKnup/Hangman-Game) **[ENGLISH]**
 <br>
  
- <h2>:pencil: Files</h2>
- 
- Name | Function 
----- | --------- 
-main.py | Home page, where you choose your route as a customer or employee, and there is no return
-cardapio_atual.py | All functions related to the current menu, i.e. the last registered menu
